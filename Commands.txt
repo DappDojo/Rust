@@ -13,5 +13,5 @@ use rand::Rng;
 use std::cmp::Ordering;
 use std::io;
 
-git config --global user.name
+git config --global user.namew
 git config --global user.email
