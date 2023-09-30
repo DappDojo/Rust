@@ -6,3 +6,5 @@ $ cargo build
 $ ./target/debug/file_name
 $ cargo run 
 $ cargo check
+
+rm -rf .git
