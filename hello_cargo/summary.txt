@@ -1,0 +1,8 @@
+commands: 
+
+$ cargo --version
+$ cargo new project_name
+$ cargo build
+$ ./target/debug/file_name
+$ cargo run 
+$ cargo check
